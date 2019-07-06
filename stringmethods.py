@@ -12,6 +12,9 @@ print(course.replace('beginners','Absolute Beginners'))
 print('python' in course)
 
 
+message="yo bro wassup"
+words=message.split(' ')
+print(words)
 # find gives index while in gives booleam value
 
 
